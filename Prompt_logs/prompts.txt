@@ -1,0 +1,5 @@
+Create a prompt or settings file for world building with templates
+
+science fiction story with inspiration from real world history 
+
+"Design a fully immersive fictional world by filling out the following structured settings file. Each section includes guiding templates and questions. Use this framework to flesh out civilizations, politics, technology, daily life, and lore in your world. Be creative, but keep the entries consistent with one another."
