@@ -1,0 +1,32 @@
+# Places and Locations in The Convergent Realms
+
+## Major Regions
+1. Nilharan Peninsula (The Awakening Shore)
+2. The Tabriz Highlands (The Crimson Plateau)
+3. The Scholar's Crescent (Bayt al-Hikma Region)
+
+## Major Cities
+4. Qahirah (Cairo analog) - Major port city in Nilhara
+5. Bayrut (Beirut analog) - Major port city in Nilhara
+6. Madinat al-Ilm (The City of Knowledge) - The Great Translation Center
+
+## Strategic Locations
+7. Chaldiran Pass - The great strategic bottleneck in the highlands
+8. The Great Convergence - Where river routes meet mountain passes and coastal ports
+
+## Fortress Cities & Military Installations
+9. Qal'at al-Ahmar (The Red Fortress) - Ancient highland fortress
+10. Burj al-Rasad (The Observatory Tower) - Lighthouse-observatory complex
+
+## Cultural & Academic Centers
+11. Bayt al-Hikma al-Kubra (The Great House of Wisdom) - Central academy
+12. Dar al-Tarjama (The Translation House) - Major translation center
+13. Maktabat al-Uloom (The Library of Sciences) - Repository of mathematical knowledge
+
+## Trade & Economic Centers
+14. Suq al-Kutub (The Book Market) - Center of printing trade
+15. Mina al-Tijara (The Commerce Harbor) - Major trading port
+
+## Religious & Mystical Sites
+16. Masjid al-Hisab (The Mosque of Calculation) - Where mathematics meets spirituality
+17. Zawiyat al-Qizil (The Red Corner) - Mystical warrior training ground
