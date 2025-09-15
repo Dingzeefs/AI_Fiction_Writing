@@ -1,0 +1,15 @@
+# File and Word Count Guidelines
+
+Here is a suggested structure for managing your story’s length and content organization:
+
+## Section	Target Word Count	Description
+Prologue	1,500 – 2,000 words	Set up a historical moment, possibly a flashback to Earth or the Concordat's rise.
+Part I 	10,000 – 15,000 words	Introduce the protagonist, the Concordat, and the discovery of forbidden history.
+Part II 15,000 – 20,000 words	Dive deeper into historical parallels; build tension; introduce rebel factions.
+Part III 15,000 – 20,000 words	The protagonist must choose sides, and ideological lines are drawn.
+Part IV 20,000 – 25,000 words	The climax: revolutions spark, AI awaken, systems collapse.
+Epilogue 1,000 – 2,000 words	Reflect on the cost of change and the rebirth of galactic society.
+
+Total Suggested Word Count: 60,000 – 80,000 words
+Estimated Page Range (Standard Format): 250–320 pages
+
