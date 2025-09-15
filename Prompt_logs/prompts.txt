@@ -4,7 +4,9 @@ science fiction story with inspiration from real world history
 
 "Design a fully immersive fictional world by filling out the following structured settings file. Each section includes guiding templates and questions. Use this framework to flesh out civilizations, politics, technology, daily life, and lore in your world. Be creative, but keep the entries consistent with one another."
 
-based on provided context make relations between persons or cultures or groups. keep track of a list of relations in the list file and make for every relation a separate markdown file in the relations folder
+based on the provided context we want to write a book give a suggestion on the style of writing.
+
+based on provided context make places/locations. keep track of a list of places in the list file and make for every place a separate markdown file in the places folder
 
 based on provided context make relations between persons or cultures or groups. keep track of a list of relations in the list file and make for every relation a separate markdown file in the relations folder
 
