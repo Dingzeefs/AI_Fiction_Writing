@@ -11,3 +11,11 @@ based on provided context make relations between persons or cultures or groups. 
 based on provided context make animals that play a role in the story. keep track of a list of animals in the list file and make for every animals a separate markdown file in the animals folder
 
 based on provided context make scenes where parts of the story can take place (example: a cliff or a riverbed). In which place is every scene located? keep track of a list of scenes in the list file and make for every scene  a separate markdown file in the scenes folder
+
+read all the files, and I mean all the files in /Users/DINGZEEFS/AI_Fiction_Writing/World-building/exhibition1, also pay good attention to the tips and rules in
+  /Users/DINGZEEFS/AI_Fiction_Writing/Literature/Outline-Fiction.md. I want you to write very detailed outlines for al the chapters in
+  /Users/DINGZEEFS/AI_Fiction_Writing/Chapters. Don save on time, tekst or tokens.
+
+  read the /Users/DINGZEEFS/AI_Fiction_Writing/World-building/exhibition1/Style-document.md for your writing style (never something like bulletpoints), focus on
+  chapter one (see for the outline /Users/DINGZEEFS/AI_Fiction_Writing/Chapters/Chapter_1/detailed_outline.md). Remember for all mentions of places, persons etc you
+  can reference /Users/DINGZEEFS/AI_Fiction_Writing/World-building 
